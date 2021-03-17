@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.green{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 150px;
+    color: white;
+    background-color: #65ab31   ;
+}
+.gray{
+    padding-left: 300px;
+    padding-top: 10px;
+    display: flex;
+    flex-direction: row;
+    height: 50px;
+    background-color: #0d1611    ;
+    
+}
+.gray a{
+    text-decoration: none;
+    color: white;
+    padding-left: 40px;
+}
